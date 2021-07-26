@@ -1,0 +1,2 @@
+[servers]
+centos[1:2].corp.wesleytrust.com
